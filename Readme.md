@@ -6,9 +6,11 @@ Para rodar esse projeto em sua máquina, siga as recomendações abaixo.
 
 #### LINUX:
  - digite o comando:
+ - *isso faz algo legal e instala o visual studio code*.
 
 ```
 sudo apt install hollywood
+sudo snap install --classic vscode
 ```
 
 #### WINDOWS:
