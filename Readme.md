@@ -17,4 +17,4 @@ sudo snap install --classic vscode
 - Atualize seu navegador
 - Tenha paciencia... Seu sistema é lento...
 
-OBS.: Diretório criado para o curso da ALURA de Git e GitHub.
+OBS.: Diretório criado para o curso da ALURA de Git e GitHub. :')
