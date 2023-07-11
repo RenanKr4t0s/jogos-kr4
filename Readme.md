@@ -23,3 +23,5 @@ OBS.: Diretório criado para o curso da ALURA de Git e GitHub. :')
 -[ ] Sites para incluir no Obsidian:
 [Subcomandos de git-log](https://devhints.io/git-log);
 [Formatos de git-log --pretty](https://devhints.io/git-log-format);
+
+O Branch Playground é o melhor que existe.
