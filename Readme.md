@@ -25,3 +25,4 @@ OBS.: Diretório criado para o curso da ALURA de Git e GitHub. :')
 [Formatos de git-log --pretty](https://devhints.io/git-log-format);
 
 O Branch Playground é o melhor que existe.
+Mas será que se a gente não definir o push o negócio para de funcionar?
